@@ -1,0 +1,30 @@
+
+
+body {
+  background-color: #0000ff;
+  border: ridge;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+h1  {
+  background-color: #ff0000;
+  border: solid;
+  font-family: cursive;
+}
+h1 {
+  text-align: center;
+}
+div  {
+  border: dashed;
+}
+p p  {
+  text-align: center;
+}
+div div {
+  border: groove;
+}
+
+a {
+  color: #ff0000;
+}
